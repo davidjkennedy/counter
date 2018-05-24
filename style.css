@@ -8,9 +8,10 @@ h1 {
   color: slategrey;
 }
 h4 {
-  text-transform: uppercase;
-  text-align: center;
   color: slategrey;
+  text-align: center;
+  text-transform: uppercase;
+
 }
 
 div {
